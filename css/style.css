@@ -45,7 +45,7 @@ html, body {
   background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
 }
 .background:nth-child(4) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(5) {
   background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);

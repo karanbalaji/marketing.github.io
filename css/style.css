@@ -30,7 +30,7 @@ html, body {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(http://emilyhayman.com/codepens/bgd1.jpg);
+  background-image: url(/img/intro.png);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -39,13 +39,13 @@ html, body {
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1424746219973-8fe3bd07d8e3.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(3) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/email1.gif);
 }
 .background:nth-child(4) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(5) {
   background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);

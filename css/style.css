@@ -48,13 +48,13 @@ html, body {
   background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(5) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(6) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 .background:nth-child(7) {
-  background-image: url(http://emilyhayman.com/codepens/photo-1433840496881-cbd845929862.jpg);
+  background-image: url(/img/laptop.jpg);
 }
 
 
@@ -106,7 +106,7 @@ html, body {
     padding-right: 100px;
     
 }
-<<<<<<< HEAD
+ HEAD
 img {
     justify-content: center;
     align-content: center;
@@ -117,12 +117,8 @@ img {
     
 }
 =======
->>>>>>> parent of 63fdefa... Preview
-.content-title {
-  font-size: 8vh;
-  line-height: 1.4;
-padding-bottom: 10px; 
-}
+ parent of 63fdefa... Preview
+
 .content-subtitle {
   font-size: 4vh;
   line-height: 1.4;
@@ -185,4 +181,9 @@ th{
 .background.down-scroll + .background:not(.down-scroll) .content-wrapper {
   -webkit-transform: translateY(15vh);
           transform: translateY(15vh);
+}
+.content-title {
+  font-size: 8vh;
+  line-height: 1.4;
+padding-bottom: 10px; 
 }
